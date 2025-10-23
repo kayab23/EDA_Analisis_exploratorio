@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excluir imágenes generadas
+*.png
+
+# Excluir reportes de profiling si se desea (opcional)
+# profiling_report.html
