@@ -21,3 +21,6 @@ Thumbs.db
 
 # Excluir reportes de profiling si se desea (opcional)
 # profiling_report.html
+ 
+# Ignorar archivos compilados de Python
+*.pyc
