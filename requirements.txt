@@ -9,4 +9,3 @@ plotly
 nbformat
 nbconvert
 ydata-profiling
-pandas-profiling
