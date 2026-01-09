@@ -1,8 +1,8 @@
-# Proyecto de Análisis de Datos - practica TuTekGuy
+# Proyecto de Análisis de Datos -
 
 Descripción
 -----------
-Repositorio para rehacer el proyecto de Analítica Avanzada usando los datasets de la carpeta `data/`.
+Repositorio proyecto de Analítica Avanzada usando los datasets de la carpeta `data/`.
 
 Contenido del repositorio
 -------------------------
